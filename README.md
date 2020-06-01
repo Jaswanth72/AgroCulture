@@ -34,7 +34,7 @@ Sql<br>
 
 ![](preview/1.PNG)
 
-![](preview/2.PNG)
+![](preview/4.PNG)
 
 ![](preview/3.PNG)
 
