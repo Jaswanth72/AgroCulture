@@ -30,7 +30,13 @@ Bootstrap<br>
 JavaScript<br>
 Sql<br>
 
-#ScreenShoots
+# ScreenShoots
+
+![](preview/1.PNG)
+
+![](preview/2.PNG)
+
+![](preview/3.PNG)
 
 
 
